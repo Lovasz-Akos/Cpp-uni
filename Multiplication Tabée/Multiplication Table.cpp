@@ -1,4 +1,6 @@
 #include <iostream>
+#include <iomanip>
+
 int GetNumber();
 void MultiplicationTable(int tableSize);
 
@@ -8,7 +10,16 @@ int main()
 {
     int tableSize = GetNumber();
     cout << tableSize;
+
+    MultiplicationTable(tableSize);
     return 0;
+}
+
+void MultiplicationTable(int tableSize) {
+    for (int i = 0; i <= tableSize; i++)
+    {
+        cout << setw(tableSize) << i;
+    }
 }
 
 int GetNumber() {
