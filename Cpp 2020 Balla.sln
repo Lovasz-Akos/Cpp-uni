@@ -9,6 +9,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Basic IO", "Basic IO\Basic 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Circumference", "Circumference\Circumference.vcxproj", "{2148A980-EAB0-458C-9428-EDDFCB506847}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiplication Tabée", "Multiplication Tabée\Multiplication Tabée.vcxproj", "{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -41,6 +43,14 @@ Global
 		{2148A980-EAB0-458C-9428-EDDFCB506847}.Release|x64.Build.0 = Release|x64
 		{2148A980-EAB0-458C-9428-EDDFCB506847}.Release|x86.ActiveCfg = Release|Win32
 		{2148A980-EAB0-458C-9428-EDDFCB506847}.Release|x86.Build.0 = Release|Win32
+		{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}.Debug|x64.ActiveCfg = Debug|x64
+		{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}.Debug|x64.Build.0 = Debug|x64
+		{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}.Debug|x86.Build.0 = Debug|Win32
+		{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}.Release|x64.ActiveCfg = Release|x64
+		{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}.Release|x64.Build.0 = Release|x64
+		{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}.Release|x86.ActiveCfg = Release|Win32
+		{EC1AA595-F03B-4E65-8E80-EF2E7FA578C0}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
