@@ -16,7 +16,7 @@ int main()
 
 void MultiplicationTable(int tableSize) {
     int width = 3;
-    
+
     for (int i = 0; i <= tableSize; i++)
     {
         cout << setw(width) << i;

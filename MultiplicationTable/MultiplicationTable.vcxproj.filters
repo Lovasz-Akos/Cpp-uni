@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Multiplication Table.cpp">
+    <ClCompile Include="MultiplicationTable.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
