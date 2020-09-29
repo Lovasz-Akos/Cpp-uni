@@ -9,16 +9,22 @@ using namespace std;
 int main()
 {
     int tableSize = GetNumber();
-    cout << tableSize;
-
+    cout << setw(4) << " ";
     MultiplicationTable(tableSize);
     return 0;
 }
 
 void MultiplicationTable(int tableSize) {
+    int width = 3;
+    
     for (int i = 0; i <= tableSize; i++)
     {
-        cout << setw(tableSize) << i;
+        cout << setw(width) << i;
+        for (int j = 0; j < tableSize; j++)
+        {
+            cout << setw(width) << i;
+        }
+        cout << endl;
     }
 }
 
