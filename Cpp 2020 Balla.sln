@@ -17,6 +17,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Balance Numbers", "Balance 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Armstrong Numbers", "Armstrong Numbers\Armstrong Numbers.vcxproj", "{4B8301F0-86AE-4A2F-ACB7-C9740BBBD8E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Gráf Algoritmusok", "Gráf Algoritmusok\Gráf Algoritmusok.vcxproj", "{62F21C22-B683-4935-A474-E2F4F1E21C13}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -81,6 +83,14 @@ Global
 		{4B8301F0-86AE-4A2F-ACB7-C9740BBBD8E2}.Release|x64.Build.0 = Release|x64
 		{4B8301F0-86AE-4A2F-ACB7-C9740BBBD8E2}.Release|x86.ActiveCfg = Release|Win32
 		{4B8301F0-86AE-4A2F-ACB7-C9740BBBD8E2}.Release|x86.Build.0 = Release|Win32
+		{62F21C22-B683-4935-A474-E2F4F1E21C13}.Debug|x64.ActiveCfg = Debug|x64
+		{62F21C22-B683-4935-A474-E2F4F1E21C13}.Debug|x64.Build.0 = Debug|x64
+		{62F21C22-B683-4935-A474-E2F4F1E21C13}.Debug|x86.ActiveCfg = Debug|Win32
+		{62F21C22-B683-4935-A474-E2F4F1E21C13}.Debug|x86.Build.0 = Debug|Win32
+		{62F21C22-B683-4935-A474-E2F4F1E21C13}.Release|x64.ActiveCfg = Release|x64
+		{62F21C22-B683-4935-A474-E2F4F1E21C13}.Release|x64.Build.0 = Release|x64
+		{62F21C22-B683-4935-A474-E2F4F1E21C13}.Release|x86.ActiveCfg = Release|Win32
+		{62F21C22-B683-4935-A474-E2F4F1E21C13}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
